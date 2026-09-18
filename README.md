@@ -126,3 +126,7 @@ Thank you for considering contributing to this Laravel project! To contribute, p
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+---
+
+Made with love by [Laflamme](https://github.com/lafllamme).
